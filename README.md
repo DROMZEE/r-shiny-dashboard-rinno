@@ -16,7 +16,7 @@ création d'un Dasboard avec shiny à partir de fichiers xlsx et création d'une
     * https://github.com/MeidiKDRI
     * https://www.linkedin.com/in/meidi-kadri/
 * Ronan 
-    * 
+    * https://github.com/rp5555
 * Cédric Dromzée
     * https://github.com/DROMZEE/
     * https://www.linkedin.com/in/dromzee/?locale=fr_FR
